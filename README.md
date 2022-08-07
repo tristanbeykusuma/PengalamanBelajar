@@ -16,3 +16,11 @@ Belajar kelas Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres
 * Belajar tentang gerbang-gerbang logika seperti gerbang AND, NOT, OR, XOR, XNOR, NAND, dan NOR.
 
 * Belajar elemen computational thinking yaitu decomposition, pattern recognition, abstraction, algorithm, dan evaluation. 
+
+**7 Agustus 2022**
+
+Belajar kelas Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
+
+* Belajar penggunaan logika pemrograman dalam studi kasus menghitung luas segitiga.
+
+* Mengerjakan ujian akhir untuk menilai kemahiran diri. 
